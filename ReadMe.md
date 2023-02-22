@@ -1,6 +1,6 @@
 # Dousheng
 ## 一、项目介绍
-- 项目简介：主要基于Kitex RPC+ Gin HTTP + MySQL实现的第五届字节跳动青训营极简抖音后端微服务项目 ——抖声
+- 主要基于Kitex RPC微服务+ Gin HTTP + MySQL实现的第五届字节跳动青训营极简抖音后端项目 ——抖声
 - Github地址：https://github.com/siye1024/JccJ/
 
 ## 二、项目实现
